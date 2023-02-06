@@ -120,7 +120,7 @@ function App() {
                 onDragOver={dragOver}
                 onDragEnter={dragEnter}
                 onDragLeave={dragLeave}
-                src="src/assets/image.svg"
+                src="image.svg"
                 className="logo"
                 alt="logo"
               />
