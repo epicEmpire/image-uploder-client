@@ -177,8 +177,6 @@ function App() {
           <div className="loading"></div>
         </div>
       )}
-
-      <span className="credit">created by Kartik Fulara - devChallenges.io</span>
     </div>
   );
 }
